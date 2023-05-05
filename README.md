@@ -1,5 +1,4 @@
-
-<div>
+<div>>
 
 ## Languages: 
 
@@ -12,7 +11,8 @@
 [![JAVA][java-shield]][java-url]
 [![JAVASCRYPT][javascrypt-shield]][javascrypt-url]
 [![LADDER][ladder-shield]][ladder-url]
-[![CLABVIEW][labview-shield]][labview-url]
+[![LABVIEW][labview-shield]][labview-url]
+[![MARKDOWN][markdown-shield]][markdown-url]
 [![NODERED][nodeRed-shield]][nodeRed-url]
 [![PYTHON][python-shield]][python-url]
 [![PHP][php-shield]][php-url]
@@ -116,7 +116,8 @@
 [ladder-url]:     https://scciclient.blob.core.windows.net/ecdcontrolscom/uploads/documents/productdetail/ft1a-programming-manual-part-1-08-22-14-2326.pdf
 [labview-shield]:  https://img.shields.io/badge/-LABVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black
 [labview-url]:     https://www.ni.com/it-it/shop/labview.html
-
+[markdown-shield]:  https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
+[markdown-url]:     https://www.markdownguide.org/
 [nodeRed-shield]: https://img.shields.io/badge/-NODE_RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white
 [nodeRed-url]:     https://nodered.org
 [python-shield]:  https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=3670A0
