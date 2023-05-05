@@ -85,7 +85,7 @@
 
 
 ## ieee student branch brixia associate
-[![C][c-shield]][c-url]
+[![IEEE][ieee-shield]][ieee-url]
 
 
 
@@ -100,23 +100,23 @@
 [Assembly-url]: https://learn.microsoft.com/it-it/cpp/c-language/
 
 [c-shield]:     https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
-[c-url]    https://learn.microsoft.com/it-it/cpp/c-language/
-[c++-shield]  https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[c++-url]    https://learn.microsoft.com/it-it/cpp/cpp/
-[c#-shield]   https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
-[c#-url]     https://learn.microsoft.com/it-it/dotnet/csharp/
-[css3-shield]  https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[css3-url]      https://developer.mozilla.org/en-US/docs/Web/CSS
-[html5-shield]  https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[html5-url]     https://developer.mozilla.org/en-US/docs/Glossary/HTML5
-[java-shield]   https://img.shields.io/badge/java-orange?style=for-the-badge&logo=eclipseide&logoColor=white
-[java-url]      https://docs.oracle.com/en/java/
-[javascrypt-shield]  https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[javascrypt-url]    https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[ladder-shield]  https://img.shields.io/badge/-ladder-009999?style=for-the-badge&logo=siemens&logoColor=white
-[ladder-url]     https://scciclient.blob.core.windows.net/ecdcontrolscom/uploads/documents/productdetail/ft1a-programming-manual-part-1-08-22-14-2326.pdf
-[labview-shield]  https://img.shields.io/badge/-LABVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black
-[labview-url]     https://www.ni.com/it-it/shop/labview.html
+[c-url]:    https://learn.microsoft.com/it-it/cpp/c-language/
+[c++-shield]:  https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[c++-url]:    https://learn.microsoft.com/it-it/cpp/cpp/
+[c#-shield]:   https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+[c#-url]:     https://learn.microsoft.com/it-it/dotnet/csharp/
+[css3-shield]:  https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[css3-url]:      https://developer.mozilla.org/en-US/docs/Web/CSS
+[html5-shield]:  https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[html5-url]:     https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[java-shield]:   https://img.shields.io/badge/java-orange?style=for-the-badge&logo=eclipseide&logoColor=white
+[java-url]:  https://docs.oracle.com/en/java/
+[javascrypt-shield]:  https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[javascrypt-url]:    https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[ladder-shield]:  https://img.shields.io/badge/-ladder-009999?style=for-the-badge&logo=siemens&logoColor=white
+[ladder-url]:     https://scciclient.blob.core.windows.net/ecdcontrolscom/uploads/documents/productdetail/ft1a-programming-manual-part-1-08-22-14-2326.pdf
+[labview-shield]:  https://img.shields.io/badge/-LABVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black
+[labview-url]:     https://www.ni.com/it-it/shop/labview.html
 
 [nodeRed-shield] https://img.shields.io/badge/-NODE_RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white
 [nodeRed-url]     https://nodered.org
