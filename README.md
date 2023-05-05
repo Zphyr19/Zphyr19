@@ -7,7 +7,7 @@
 [![C][c-shield]][c-url]
 [![C++][c++-shield]][c++-url]
 [![C#][c#-shield]][c#-url]
-[![CSS][css-shield]][css-url]
+[![CSS][css3-shield]][css3-url]
 [![C][c-shield]][c-url]
 [![C][html5-shield]][html5-url]
 [![C][java-shield]][java-url]
@@ -161,7 +161,7 @@
 [autocad-url]: www.autodesk.it/products/autocad/overview
 
 [fusion360-shield]:  https://img.shields.io/badge/-FUSION360-d56007?style=for-the-badge
-[fusion-url]:  https://www.autodesk.it/products/fusion-360/overview
+[fusion360-url]:  https://www.autodesk.it/products/fusion-360/overview
 
 [minizinc-shield]:  https://img.shields.io/badge/-minizinc-138adf?style=for-the-badge
 [minizinc-url]:    https://www.minizinc.org/minisearch/documentation.html
