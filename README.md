@@ -1,81 +1,80 @@
 
 <div>
 
-## languages: 
+## Languages: 
 
 [![Assembly][Assembly-shield]][Assembly-url]
 [![C][c-shield]][c-url]
 [![C++][c++-shield]][c++-url]
 [![C#][c#-shield]][c#-url]
 [![CSS][css3-shield]][css3-url]
-[![C][c-shield]][c-url]
-[![C][html5-shield]][html5-url]
-[![C][java-shield]][java-url]
-[![C][javascrypt-shield]][javascrypt-url]
-[![C][ladder-shield]][ladder-url]
-[![C][labview-shield]][labview-url]
-[![C][nodeRed-shield]][nodeRed-url]
-[![C][python-shield]][python-url]
-[![C][php-shield]][php-url]
+[![HTML5][html5-shield]][html5-url]
+[![JAVA][java-shield]][java-url]
+[![JAVASCRYPT][javascrypt-shield]][javascrypt-url]
+[![LADDER][ladder-shield]][ladder-url]
+[![CLABVIEW][labview-shield]][labview-url]
+[![NODERED][nodeRed-shield]][nodeRed-url]
+[![PYTHON][python-shield]][python-url]
+[![PHP][php-shield]][php-url]
 
 </div>
 
 <div>
 
-## command line interface:
+## Command Line Interface:
 
-[![C][bash-shield]][bash-url]
-[![C][windows_cmd-shield]][windows_cmd-url]
-[![C][macos_cmd-shield]][macos_cmd-url]
+[![BASH][bash-shield]][bash-url]
+[![WIN_CMD][windows_cmd-shield]][windows_cmd-url]
+[![MAC_CMD][macos_cmd-shield]][macos_cmd-url]
 
 
-
-</div>
-
-<div>
-
-## dbms: 
-
-[![C][json-shield]][json-url]
-[![C][mongodb-shield]][mongodb-url]
-[![C][mysql-shield]][mysql-url]
-[![C][xml-shield]][xml-url]
-</div>
-
-<div>
-
-## operative systems: 
-
-[![C][linux-shield]][linux-url]
-[![C][macos-shield]][macos-url]
-[![C][windows-shield]][windows-url]
-</div>
-
-<div>
-
-## programmable hardware:
-
-[![C][arduino-shield]][arduino-url]
-[![C][raspberry-shield]][raspberry-url]
-[![C][siemens-shield]][siemens-url]
-</div>
-
-<div>
-
-## miscellaneous:
-
-[![C][unity-shield]][unity-url]
-[![C][autocad-shield]][autocad-url]
-[![C][fusion360-shield]][fusion360-url]
-[![C][minizinc-shield]][minizinc-url]
-[![C][gimp-shield]][gimp-url]
-[![C][ros-shield]][ros-url]
 
 </div>
 
 <div>
 
-## looking to learn:
+## DBMS: 
+
+[![JSON][json-shield]][json-url]
+[![MONGODB][mongodb-shield]][mongodb-url]
+[![MYSQL][mysql-shield]][mysql-url]
+[![XML][xml-shield]][xml-url]
+</div>
+
+<div>
+
+## Operative Systems: 
+
+[![LINUX][linux-shield]][linux-url]
+[![MACOS][macos-shield]][macos-url]
+[![WINDOWS][windows-shield]][windows-url]
+</div>
+
+<div>
+
+## Programmable Hardware:
+
+[![ARDUINO][arduino-shield]][arduino-url]
+[![RASPBERRY][raspberry-shield]][raspberry-url]
+[![SIEMENS][siemens-shield]][siemens-url]
+</div>
+
+<div>
+
+## Miscellaneous:
+
+[![UNITY][unity-shield]][unity-url]
+[![AUTOCAD][autocad-shield]][autocad-url]
+[![FUSION][fusion360-shield]][fusion360-url]
+[![MINIZINC][minizinc-shield]][minizinc-url]
+[![GIMP][gimp-shield]][gimp-url]
+[![ROS][ros-shield]][ros-url]
+
+</div>
+
+<div>
+
+## Looking to learn:
 
 [![C][batch-shield]][batch-url]
 [![C][blender-shield]][blender-url]
@@ -84,7 +83,7 @@
 </div>
 
 
-## ieee student branch brixia associate
+## IEEE Student Branch Brescia member
 [![IEEE][ieee-shield]][ieee-url]
 
 
