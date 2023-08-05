@@ -78,7 +78,7 @@
 
 [![C][batch-shield]][batch-url]
 [![C][blender-shield]][blender-url]
-[![C][pypi-shield]][pypi-url]
+[![C][pypy-shield]][pypy-url]
 
 </div>
 
@@ -177,6 +177,6 @@
 [batch-url]:https://doc.batch.com
 [blender-shield]:   https://img.shields.io/badge/-BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=black
 [blender-url]:  https://www.blender.org
-[pypi-shield]:  https://img.shields.io/badge/-pypy-3775A9?style=for-the-badge&logo=pypy&logoColor=white
-[pypi-url]:    https://pypi.org
+[pypy-shield]:  https://img.shields.io/badge/-pypy-3775A9?style=for-the-badge&logo=pypy&logoColor=white
+[pypy-url]:    https://pypy.org
 
