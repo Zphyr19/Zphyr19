@@ -14,8 +14,10 @@
 [![LABVIEW][labview-shield]][labview-url]
 [![MARKDOWN][markdown-shield]][markdown-url]
 [![NODERED][nodeRed-shield]][nodeRed-url]
-[![PYTHON][python-shield]][python-url]
 [![PHP][php-shield]][php-url]
+[![PYTHON][python-shield]][python-url]
+[![C][pypy-shield]][pypy-url]
+
 
 </div>
 
@@ -78,7 +80,7 @@
 
 [![C][batch-shield]][batch-url]
 [![C][blender-shield]][blender-url]
-[![C][pypy-shield]][pypy-url]
+
 
 </div>
 
