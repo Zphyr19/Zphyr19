@@ -96,7 +96,6 @@
 
 
 
-
 [Assembly-shield]: https://img.shields.io/badge/-ASSEMBLY-yellow?style=for-the-badge
 [Assembly-url]: https://learn.microsoft.com/it-it/cpp/c-language/
 
@@ -182,3 +181,21 @@
 [pypy-shield]:  https://img.shields.io/badge/-pypy-3775A9?style=for-the-badge&logo=pypy&logoColor=white
 [pypy-url]:    https://pypy.org
 
+
+<!-->
+    esp32       https://img.shields.io/badge/-ESP32-grey?style=for-the-badge&logo=esp32
+    microchip   https://img.shields.io/badge/-MICROCHIP-red?style=for-the-badge&logo=microchip
+    vscode      https://img.shields.io/badge/-VSCODE-blue?style=for-the-badge&logo=vscode
+    docker      https://img.shields.io/badge/-DOCKER-blue?style=for-the-badge&logo=docker
+    
+    eclipse     https://img.shields.io/badge/-ECLIPSE-purple?style=for-the-badge&logo=eclipse
+    intellij    https://img.shields.io/badge/-INTELLIJ-blue?style=for-the-badge&logo=intellij
+
+    trello      https://img.shields.io/badge/-TRELLO-blue?style=for-the-badge&logo=trello
+    figma       https://img.shields.io/badge/-FIGMA-black?style=for-the-badge&logo=figma
+
+    ludum dare  https://img.shields.io/badge/-LUDUMDARE49-red?style=for-the-badge&logo=ludumDare
+
+    latex       https://img.shields.io/badge/-LATEX-darkgreen?style=for-the-badge&logo=latex 
+
+<--!>
