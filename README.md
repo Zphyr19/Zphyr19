@@ -58,10 +58,12 @@
 ## Programmable Hardware:
 
 [![ARDUINO][arduino-shield]][arduino-url]
-[![RASPBERRY][raspberry-shield]][raspberry-url]
-[![SIEMENS][siemens-shield]][siemens-url]
 [![ESP32][esp32-shield]][esp32-url]
 [![MICROCHIP][microchip-shield]][microchip-url]
+[![RASPBERRY][raspberry-shield]][raspberry-url]
+[![SIEMENS][siemens-shield]][siemens-url]
+
+
 </div>
 
 <div>
@@ -118,7 +120,6 @@
 
 [Assembly-shield]: https://img.shields.io/badge/-ASSEMBLY-yellow?style=for-the-badge
 [Assembly-url]: https://learn.microsoft.com/it-it/cpp/c-language/
-
 [c-shield]:     https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [c-url]:    https://learn.microsoft.com/it-it/cpp/c-language/
 [c++-shield]:  https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
