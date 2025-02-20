@@ -12,6 +12,7 @@
 [![JAVASCRYPT][javascrypt-shield]][javascrypt-url]
 [![LADDER][ladder-shield]][ladder-url]
 [![LABVIEW][labview-shield]][labview-url]
+[![LATEX][latex-shield]][latex-url]
 [![MARKDOWN][markdown-shield]][markdown-url]
 [![NODERED][nodeRed-shield]][nodeRed-url]
 [![PHP][php-shield]][php-url]
@@ -59,18 +60,36 @@
 [![ARDUINO][arduino-shield]][arduino-url]
 [![RASPBERRY][raspberry-shield]][raspberry-url]
 [![SIEMENS][siemens-shield]][siemens-url]
+[![ESP32][esp32-shield]][esp32-url]
+[![MICROCHIP][microchip-shield]][microchip-url]
+</div>
+
+<div>
+
+## IDE:
+
+[![ECLIPSE][eclipse-shield]][eclipse-url]
+[![INTELLIJ][intellij-shield]][intellij-url]
+[![VSCODE][vscode-shield]][vscode-url]
+
 </div>
 
 <div>
 
 ## Miscellaneous:
 
-[![UNITY][unity-shield]][unity-url]
+
 [![AUTOCAD][autocad-shield]][autocad-url]
+[![FIGMA][figma-shield]][figma-url]
 [![FUSION][fusion360-shield]][fusion360-url]
-[![MINIZINC][minizinc-shield]][minizinc-url]
 [![GIMP][gimp-shield]][gimp-url]
+[![GIT][git-shield]][git-url]
+[![LUDUM DARE][ludum_dare-shield]][ludum_dare-url]
+[![MINIZINC][minizinc-shield]][minizinc-url]
 [![ROS][ros-shield]][ros-url]
+[![TRELLO][trello-shield]][trello-url]
+[![UNITY][unity-shield]][unity-url]
+
 
 </div>
 
@@ -78,8 +97,9 @@
 
 ## Looking to learn:
 
-[![C][batch-shield]][batch-url]
-[![C][blender-shield]][blender-url]
+[![BATCH][batch-shield]][batch-url]
+[![BLENDER][blender-shield]][blender-url]
+[![DOCKER][docker-shield]][docker-url]
 
 
 </div>
@@ -117,6 +137,8 @@
 [ladder-url]:     https://scciclient.blob.core.windows.net/ecdcontrolscom/uploads/documents/productdetail/ft1a-programming-manual-part-1-08-22-14-2326.pdf
 [labview-shield]:  https://img.shields.io/badge/-LABVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black
 [labview-url]:     https://www.ni.com/it-it/shop/labview.html
+[latex-shield]:       https://img.shields.io/badge/-LATEX-darkgreen?style=for-the-badge&logo=latex
+[latex-url]:       https://www.latex-project.org/
 [markdown-shield]:  https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [markdown-url]:     https://www.markdownguide.org/
 [nodeRed-shield]: https://img.shields.io/badge/-NODE_RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white
@@ -125,6 +147,9 @@
 [python-url]:    https://www.python.org
 [php-shield]:  https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [php-url]:   https://www.php.net
+[pypy-shield]:  https://img.shields.io/badge/-pypy-3775A9?style=for-the-badge&logo=pypy&logoColor=white
+[pypy-url]:    https://pypy.org
+
 
 [bash-shield]:   https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
 [bash-url]:      https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
@@ -149,12 +174,27 @@
 [windows-shield]:  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [windows-url]: https://www.microsoft.com/windows
 
+
+
+[eclipse-shield]:     https://img.shields.io/badge/-ECLIPSE-purple?style=for-the-badge&logo=eclipse
+[eclipse-url]:    https://eclipseide.org/
+[intellij-shield]:    https://img.shields.io/badge/-INTELLIJ-blue?style=for-the-badge&logo=intellij
+[intellij-url]:   https://www.jetbrains.com/idea/ 
+[vscode-shield]:      https://img.shields.io/badge/-VSCODE-blue?style=for-the-badge&logo=vscode
+[vscode-url]:      https://code.visualstudio.com/ 
+
+
 [arduino-shield]:  https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
 [arduino-url]:  https://www.arduino.cc
+[esp32-shield]:       https://img.shields.io/badge/-ESP32-grey?style=for-the-badge&logo=esp32
+[esp32-url]:       https://en.wikipedia.org/wiki/ESP32   
+[microchip-shield]:   https://img.shields.io/badge/-MICROCHIP-red?style=for-the-badge&logo=microchip 
+[microchip-url]:   https://www.microchip.com/
 [raspberry-shield]:  https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
 [raspberry-url]:   https://www.raspberrypi.org
 [siemens-shield]:  https://img.shields.io/badge/-siemens-06f9b0?style=for-the-badge
 [siemens-url]: https://www.siemens.com/it/it.html
+
 
 [unity-shield]:  https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]:   https://unity.com
@@ -168,8 +208,22 @@
 [minizinc-url]:    https://www.minizinc.org/minisearch/documentation.html
 [gimp-shield]:  https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF
 [gimp-url]:   https://www.gimp.org
+[git-shield]:   https://img.shields.io/badge/Git-657D8B?style=for-the-badge&logo=git&logoColor=FFFFFF 
+[git-url]: https://git-scm.com/
+
 [ros-shield]:  https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white
 [ros-url]:     http://wiki.ros.org/ros_arduino_firmware
+
+[trello-shield]:      https://img.shields.io/badge/-TRELLO-blue?style=for-the-badge&logo=trello
+[trello-url]:      https://trello.com/it
+[figma-shield]:       https://img.shields.io/badge/-FIGMA-black?style=for-the-badge&logo=figma
+[figma-url]:       https://www.figma.com/
+
+[ludum_dare-shield]:  https://img.shields.io/badge/-LUDUMDARE49-red?style=for-the-badge&logo=ludumDare
+[ludum_dare-url]:  https://thevinter.itch.io/exit
+
+
+
 
 [ieee-shield]:  https://img.shields.io/badge/-IEEE_Student_Branch-00629B?style=for-the-badge&logo=ieee&logoColor=white
 [ieee-url]:      https://instagram.com/ieee.sb.brescia
@@ -178,24 +232,32 @@
 [batch-url]:https://doc.batch.com
 [blender-shield]:   https://img.shields.io/badge/-BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=black
 [blender-url]:  https://www.blender.org
-[pypy-shield]:  https://img.shields.io/badge/-pypy-3775A9?style=for-the-badge&logo=pypy&logoColor=white
-[pypy-url]:    https://pypy.org
+[docker-shield]:      https://img.shields.io/badge/-DOCKER-blue?style=for-the-badge&logo=docker
+[docker-url]:      https://www.docker.com/
 
 
-<!-->
-    esp32       https://img.shields.io/badge/-ESP32-grey?style=for-the-badge&logo=esp32
-    microchip   https://img.shields.io/badge/-MICROCHIP-red?style=for-the-badge&logo=microchip
-    vscode      https://img.shields.io/badge/-VSCODE-blue?style=for-the-badge&logo=vscode
-    docker      https://img.shields.io/badge/-DOCKER-blue?style=for-the-badge&logo=docker
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
     
-    eclipse     https://img.shields.io/badge/-ECLIPSE-purple?style=for-the-badge&logo=eclipse
-    intellij    https://img.shields.io/badge/-INTELLIJ-blue?style=for-the-badge&logo=intellij
 
-    trello      https://img.shields.io/badge/-TRELLO-blue?style=for-the-badge&logo=trello
-    figma       https://img.shields.io/badge/-FIGMA-black?style=for-the-badge&logo=figma
 
-    ludum dare  https://img.shields.io/badge/-LUDUMDARE49-red?style=for-the-badge&logo=ludumDare
 
-    latex       https://img.shields.io/badge/-LATEX-darkgreen?style=for-the-badge&logo=latex 
 
-<--!>
+
+
+
+
+
