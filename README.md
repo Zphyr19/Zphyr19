@@ -9,7 +9,7 @@
 [![CSS][css3-shield]][css3-url]
 [![HTML5][html5-shield]][html5-url]
 [![JAVA][java-shield]][java-url]
-[![JAVASCRYPT][javascrypt-shield]][javascrypt-url]
+[![JAVASCRIPT][javascript-shield]][javascript-url]
 [![LADDER][ladder-shield]][ladder-url]
 [![LABVIEW][labview-shield]][labview-url]
 [![LATEX][latex-shield]][latex-url]
@@ -17,7 +17,7 @@
 [![NODERED][nodeRed-shield]][nodeRed-url]
 [![PHP][php-shield]][php-url]
 [![PYTHON][python-shield]][python-url]
-[![C][pypy-shield]][pypy-url]
+[![PyPy][pypy-shield]][pypy-url]
 
 
 </div>
@@ -36,7 +36,7 @@
 
 <div>
 
-## DBMS: 
+## Data Formats & DBMS: 
 
 [![JSON][json-shield]][json-url]
 [![MONGODB][mongodb-shield]][mongodb-url]
@@ -63,6 +63,26 @@
 [![RASPBERRY][raspberry-shield]][raspberry-url]
 [![SIEMENS][siemens-shield]][siemens-url]
 
+
+</div>
+
+<div>
+
+## Hardware Description & System Modeling:
+
+[![VHDL][vhdl-shield]][vhdl-url] 
+[![Verilog][verilog-shield]][verilog-url] 
+[![SystemC][systemc-shield]][systemc-url] 
+[![Lingua Franca][linguafranca-shield]][linguafranca-url]
+
+</div
+
+
+<div>
+
+## AI & Local LLM Optimization:
+
+[![LM Studio][lmstudio-shield]][lmstudio-url]
 
 </div>
 
@@ -119,7 +139,7 @@
 
 
 [Assembly-shield]: https://img.shields.io/badge/-ASSEMBLY-yellow?style=for-the-badge
-[Assembly-url]: https://learn.microsoft.com/it-it/cpp/c-language/
+[Assembly-url]: https://en.wikipedia.org/wiki/Assembly_language
 [c-shield]:     https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [c-url]:    https://learn.microsoft.com/it-it/cpp/c-language/
 [c++-shield]:  https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
@@ -132,8 +152,8 @@
 [html5-url]:     https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [java-shield]:   https://img.shields.io/badge/java-orange?style=for-the-badge&logo=eclipseide&logoColor=white
 [java-url]:  https://docs.oracle.com/en/java/
-[javascrypt-shield]:  https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[javascrypt-url]:    https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[javascript-shield]:  https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[javascript-url]:    https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [ladder-shield]:  https://img.shields.io/badge/-ladder-009999?style=for-the-badge&logo=siemens&logoColor=white
 [ladder-url]:     https://scciclient.blob.core.windows.net/ecdcontrolscom/uploads/documents/productdetail/ft1a-programming-manual-part-1-08-22-14-2326.pdf
 [labview-shield]:  https://img.shields.io/badge/-LABVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black
@@ -196,11 +216,26 @@
 [siemens-shield]:  https://img.shields.io/badge/-siemens-06f9b0?style=for-the-badge
 [siemens-url]: https://www.siemens.com/it/it.html
 
+[vhdl-shield]: https://img.shields.io/badge/-VHDL-orange?style=for-the-badge&logo=vhdl
+[vhdl-url]: https://en.wikipedia.org/wiki/VHDL
+
+[verilog-shield]: https://img.shields.io/badge/-Verilog-4B8BBE?style=for-the-badge&logo=verilog
+[verilog-url]: https://en.wikipedia.org/wiki/Verilog
+
+[systemc-shield]: https://img.shields.io/badge/-SystemC-8A2BE2?style=for-the-badge&logo=systemc
+[systemc-url]: https://en.wikipedia.org/wiki/SystemC
+
+[linguafranca-shield]: https://img.shields.io/badge/-Lingua%20Franca-1E3A5F?style=for-the-badge
+[linguafranca-url]: https://www.lf-lang.org/
+
+[lmstudio-shield]: https://img.shields.io/badge/-LM%20Studio-2C2C2C?style=for-the-badge&logo=lmstudio
+[lmstudio-url]: https://lmstudio.ai/
+
 
 [unity-shield]:  https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]:   https://unity.com
 [autocad-shield]: https://img.shields.io/badge/-AUTOCAD-FF0000?style=for-the-badge
-[autocad-url]: www.autodesk.it/products/autocad/overview
+[autocad-url]: https://www.autodesk.it/products/autocad/overview
 
 [fusion360-shield]:  https://img.shields.io/badge/-FUSION360-d56007?style=for-the-badge
 [fusion360-url]:  https://www.autodesk.it/products/fusion-360/overview
