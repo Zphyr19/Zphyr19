@@ -75,7 +75,7 @@
 [![SystemC][systemc-shield]][systemc-url] 
 [![Lingua Franca][linguafranca-shield]][linguafranca-url]
 
-</div
+</div>
 
 
 <div>
